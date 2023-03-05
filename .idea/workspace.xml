@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4e54402-f8d3-4d0e-84a8-eb4069222d03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Autor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Ciudad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/GeneroLibro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/GeneroPersona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Prestamo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Ciudad.java" beforeDir="false" afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Ciudad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Prestamo.java" beforeDir="false" afterPath="$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Prestamo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,11 +99,22 @@
       <workItem from="1677638039213" duration="922000" />
       <workItem from="1677766317334" duration="3353000" />
       <workItem from="1677909379943" duration="3857000" />
-      <workItem from="1677964045822" duration="5155000" />
+      <workItem from="1677964045822" duration="8537000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/persistencia/src/main/java/co/edu/uniquindio/proyecto/entidades/Persona.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

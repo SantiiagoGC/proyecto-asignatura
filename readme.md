@@ -1,3 +1,3 @@
 # Proyecto final prog advanced
 
-siiii
+Aprendiendo JPA video 2.
